@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="panel">
+  <view class="chart-without-img">
+    <button bindtap="open" data-chart="{{'bar'}}">bar</button>
+  </view>
+  <view class="chart-without-img">
+    <button bindtap="open" data-chart="{{'pie'}}">pie</button>
+  </view>
+</view>

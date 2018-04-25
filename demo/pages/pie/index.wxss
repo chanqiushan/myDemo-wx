@@ -1,0 +1,9 @@
+/**index.wxss**/
+.title{
+  padding-top: 20px;
+}
+ec-canvas {
+  display: flex;
+  flex: 1;
+  width: 100%;
+}
