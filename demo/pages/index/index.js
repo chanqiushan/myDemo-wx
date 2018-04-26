@@ -8,7 +8,7 @@ Page({
   onReady() {
   },
 
-  open: function (e) {debugger
+  open: function (e) {
     wx.navigateTo({
       url: '../' + e.target.dataset.chart + '/index'
     });
